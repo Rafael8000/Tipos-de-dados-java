@@ -2,7 +2,7 @@ public class EstruturaDeSelecao {
   public static void main(String[]args){
     int idade;
 
-    idade = 19;
+    idade =19;
 
     if (idade >= 18)
     {
